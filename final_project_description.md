@@ -7,6 +7,12 @@ I have recently moved to Greater Toronto Area from New York. I have been living 
 1. I would like to know which neighborhoods in toronto area are closest match to Brooklyn neighborhood of New york.
 2. To find the top resturants for at least 5 different cuisines in the toronto area in terms of foot traffic and ratings if possible.
 
+## Target Audience
+
+This is going to be a personal project and the target audience for this project is mostly me and my friends. 
+But, anyone trying to explore the brooklyn like neighborhoods in the northern neighborhood city can also use this data
+to explore the city or explore the popular food business oportunities in the city of Toronto.
+
 
 ## Input Data:
 

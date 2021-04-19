@@ -10,4 +10,7 @@ I have recently moved to Greater Toronto Area from New York. I have been living 
 
 ## Input Data:
 
-To solve this problem, I will first combine the New York and Toronto data we used in last assignment. Then I will use the combined data to query Foursquare API to get neighborhood data followed by clustering and cluster analysis find answers to the problems defined above.  
+To solve this problem, I will first combine the New York and Toronto data we used in last assignment. 
+The data will have Neighborhood information for the two cities along with Latitude and Longitude details.
+I will use the combined data to query Foursquare API to get neighborhood data followed by clustering and 
+cluster analysis find answers to the problems defined above. 
